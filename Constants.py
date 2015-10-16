@@ -10,3 +10,5 @@ PCS_FILE_RELATE_URI = 'file'
 
 
 disk_unit = ['Byte', 'KB', 'MB', 'GB', 'TB', 'PB', 'EB']
+
+PCS_BASE_DIR = '/app/bypy/cloudbackup/'
